@@ -1,0 +1,43 @@
+#form1
+{
+	width: 450px;
+	padding:20px;
+	border:2px solid #000;
+	border-radius:20px;
+	margin: 50px auto;
+}
+
+
+#titulo
+{
+	text-align: center;
+}
+label{
+	display: inline-block;
+	width:100px;
+	padding: 10px 0;
+}
+.centro{
+	padding: 10px;
+	text-align: center;
+}
+#cuerpo
+{
+	overflow: hidden;
+}
+#imagen
+{
+	width: 160px;
+	float: left;
+}
+img
+{
+	width: 150px;
+	display: inline-block;
+}
+#noticiaMostrar
+{
+	float: left;
+	width: 250px;
+	
+}
